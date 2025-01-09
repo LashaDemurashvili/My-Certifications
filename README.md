@@ -1,6 +1,6 @@
-# Certifications
+# *Certifications*
 
-## Certificates of Courses I Have Completed
+## *Certificates of Courses I Have Completed*
 
 ### Power BI
 - **Name**: Microsoft Power BI Desktop for Business Intelligence  
@@ -33,4 +33,7 @@
   **Issuing Organization**: Udemy  
   **Credential ID**: UC-f294f88e-fd4d-4f94-9c29-293c07499a09  
   **Credential URL**: [View Certificate](https://www.udemy.com/certificate/UC-f294f88e-fd4d-4f94-9c29-293c07499a09/)
+
+
+
 
