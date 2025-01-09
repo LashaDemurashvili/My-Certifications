@@ -21,11 +21,12 @@
 
 - **Name**: Python Development Internship  
   **Issuing Organization**: UniLab • უნილაბი  
-  **Credential URL**: [View Certificate](https://drive.google.com/drive/u/0/folders/13-L792IU8L7dxyiQfgEVWNIQKsFc60h1)
+  **Credential URL**: [View Certificate](https://drive.google.com/file/d/1WqbB0NbNSz6gV-3fhcgdi7pwUiiC-YGI/view)
+
 
 - **Name**: Python Development Basic Level  
   **Issuing Organization**: UniLab • უნილაბი  
-  **Credential URL**: [View Certificate](https://drive.google.com/drive/u/0/folders/13-L792IU8L7dxyiQfgEVWNIQKsFc60h1)
+  **Credential URL**: [View Certificate](https://drive.google.com/file/d/1E2cSr2Sjd_CXJsB-Buu816m0QhqW83n4/view)
 
 ### SQL
 - **Name**: The Complete SQL Bootcamp: Go from Zero to Hero  
