@@ -8,6 +8,14 @@
   **Credential ID**: UC-feea5844-c7b1-469b-b487-4eaee95e2748  
   **Credential URL**: [View Certificate](https://www.udemy.com/certificate/UC-feea5844-c7b1-469b-b487-4eaee95e2748/)
 
+
+### SQL
+- **Name**: The Complete SQL Bootcamp: Go from Zero to Hero  
+  **Issuing Organization**: Udemy  
+  **Credential ID**: UC-f294f88e-fd4d-4f94-9c29-293c07499a09  
+  **Credential URL**: [View Certificate](https://www.udemy.com/certificate/UC-f294f88e-fd4d-4f94-9c29-293c07499a09/)
+
+
 ### Python
 - **Name**: Information Technology Specialist - Python  
   **Issuing Organization**: Certiport - A Pearson VUE Business  
@@ -27,13 +35,3 @@
 - **Name**: Python Development Basic Level  
   **Issuing Organization**: UniLab • უნილაბი  
   **Credential URL**: [View Certificate](https://drive.google.com/file/d/1E2cSr2Sjd_CXJsB-Buu816m0QhqW83n4/view)
-
-### SQL
-- **Name**: The Complete SQL Bootcamp: Go from Zero to Hero  
-  **Issuing Organization**: Udemy  
-  **Credential ID**: UC-f294f88e-fd4d-4f94-9c29-293c07499a09  
-  **Credential URL**: [View Certificate](https://www.udemy.com/certificate/UC-f294f88e-fd4d-4f94-9c29-293c07499a09/)
-
-
-
-
